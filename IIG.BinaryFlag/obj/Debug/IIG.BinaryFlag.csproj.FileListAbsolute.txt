@@ -1,0 +1,6 @@
+G:\Labs\Testing\lab3\IIG.BinaryFlag\IIG.BinaryFlag\bin\Debug\IIG.BinaryFlag.dll
+G:\Labs\Testing\lab3\IIG.BinaryFlag\IIG.BinaryFlag\bin\Debug\IIG.BinaryFlag.pdb
+G:\Labs\Testing\lab3\IIG.BinaryFlag\IIG.BinaryFlag\obj\Debug\IIG.BinaryFlag.csprojAssemblyReference.cache
+G:\Labs\Testing\lab3\IIG.BinaryFlag\IIG.BinaryFlag\obj\Debug\IIG.BinaryFlag.csproj.CoreCompileInputs.cache
+G:\Labs\Testing\lab3\IIG.BinaryFlag\IIG.BinaryFlag\obj\Debug\IIG.BinaryFlag.dll
+G:\Labs\Testing\lab3\IIG.BinaryFlag\IIG.BinaryFlag\obj\Debug\IIG.BinaryFlag.pdb

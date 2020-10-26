@@ -114,7 +114,7 @@ namespace IIG.Test.BinaryFlag
             try
             {
                 IIG.BinaryFlag.MultipleBinaryFlag mbf = new IIG.BinaryFlag.MultipleBinaryFlag(20, false);
-                mbf.SetFlag(21);
+                mbf.ResetFlag(21);
             }
             catch (Exception e)
             {
